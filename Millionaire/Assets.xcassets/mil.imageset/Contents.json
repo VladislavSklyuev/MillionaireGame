@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "vkp-pic_32ratio_600x400-600x400-49793.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
